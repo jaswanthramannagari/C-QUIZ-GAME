@@ -1,4 +1,5 @@
 # C-QUIZ-GAME
+In quiz game, questions are chosen in such a a way that they cover all fields of a typical quiz contest. The user’s general knowledge is tested with quiz questions regarding science, technology, movies, sports, general health, geography and many more.The code is to be compiled in Code::Blocks with gcc compiler. This quiz game in C is not designed to run on the Turbo C versions.
 I have divided this mini project into many functions, and listed below are some of those which may help you understand the project better.
 edit_score() – adds the current cash prize won to the previous one upon giving the right answer to a question
 help() – help menu with game summary and rules
